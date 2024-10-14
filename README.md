@@ -1,4 +1,4 @@
-# nubank
+# nubank_flutter
 
 A new Flutter project.
 
